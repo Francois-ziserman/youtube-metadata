@@ -1,0 +1,7 @@
+venv/*
+*.txt
+*.sql
+*oauth2.json
+client_secrets.json
+.DS_STORE
+.idea/*
